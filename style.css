@@ -1,0 +1,15 @@
+body {
+  background-image: -webkit-image-set( img/pict-1.jpg);
+  background-color: black;
+  
+}
+
+.jumbotron {
+  padding-top: 6rem;
+ ; padding: bottom 5rem
+  background-color: black;
+}
+
+section {
+  padding-top: 7rem;
+}
